@@ -1,0 +1,951 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F2A42D1F-23A6-4C5E-957A-023A97F20BA2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>eDMSystem.My.MyApplication</StartupObject>
+    <RootNamespace>eDMSystem</RootNamespace>
+    <AssemblyName>eDMSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\tip-app-db\mds\ICT_Docs\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\tip-app-db\mds\ICT_Docs\</UpdateUrl>
+    <TargetCulture>ar-LY</TargetCulture>
+    <ProductName>eDMSystem</ProductName>
+    <PublisherName>Mellitha Gas Applictaion Team</PublisherName>
+    <SuiteName>eDMSystem</SuiteName>
+    <MinimumRequiredVersion>3.1.2.1</MinimumRequiredVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>3.1.2.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>eDMSystem.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>eDMSystem.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>folders.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9773F73B7C79526079AF9D06B9796844963B5EC9</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>eDMSystem_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AcroPDFLib">
+      <HintPath>bin\Debug\AxInterop.AcroPDFLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>bin\Debug\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>bin\Debug\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.AcroPDFLib">
+      <HintPath>bin\Debug\Interop.AcroPDFLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>bin\Debug\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>bin\Debug\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MsgShow">
+      <HintPath>..\MsgShow.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.7.0.0-preview.7.22375.6\lib\net462\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.6.0.2-mauipre.1.22102.15\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.7.0.0-preview.7.22375.6\lib\net462\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.6.0.0-preview.5.21301.5\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="Telerik.WinControls, Version=2020.1.218.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.PdfViewer, Version=2020.1.218.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.UI, Version=2020.1.218.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.Windows.Documents.Core, Version=2020.1.212.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7" />
+    <Reference Include="Telerik.Windows.Documents.Fixed, Version=2020.1.212.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7" />
+    <Reference Include="TelerikCommon, Version=2020.1.218.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="companiesDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>companiesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Controllers\Class1.vb" />
+    <Compile Include="Controllers\Class2.vb" />
+    <Compile Include="Controllers\Module2.vb" />
+    <Compile Include="Controllers\pathClass.vb" />
+    <Compile Include="Controllers\Users.vb" />
+    <Compile Include="deleteRecord.Designer.vb">
+      <DependentUpon>deleteRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="deleteRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DepDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EDMSDataSetemplloyees.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EDMSDataSetemplloyees.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employees.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employees.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employees.vb">
+      <DependentUpon>Employees.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Encryption.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlert.designer.vb">
+      <DependentUpon>frmAlert.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlert.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INOUT.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>INOUT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IN_IN.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IN_IN.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoginWarning.Designer.vb">
+      <DependentUpon>LoginWarning.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginWarning.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OutIn.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OutIn.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OUTOUT.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OUTOUT.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="test.Designer.vb">
+      <DependentUpon>test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransparentBGvb.Designer.vb">
+      <DependentUpon>TransparentBGvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransparentBGvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\dashBoardUC.Designer.vb">
+      <DependentUpon>dashBoardUC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\dashBoardUC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\Departments\addNewCom.Designer.vb">
+      <DependentUpon>addNewCom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Departments\addNewCom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Departments\addNewDep.Designer.vb">
+      <DependentUpon>addNewDep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Departments\addNewDep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Departments\Center.Designer.vb">
+      <DependentUpon>Center.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Departments\Center.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\Departments\COM.Designer.vb">
+      <DependentUpon>COM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Departments\COM.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\Departments\DEP.Designer.vb">
+      <DependentUpon>DEP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Departments\DEP.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\Departments\editCom.Designer.vb">
+      <DependentUpon>editCom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Departments\editCom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Departments\editDep.Designer.vb">
+      <DependentUpon>editDep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Departments\editDep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Employees\addNewEmp.Designer.vb">
+      <DependentUpon>addNewEmp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Employees\addNewEmp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Employees\docEmpType.Designer.vb">
+      <DependentUpon>docEmpType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Employees\docEmpType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Employees\editEmpInfo.Designer.vb">
+      <DependentUpon>editEmpInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Employees\editEmpInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Employees\employeesUC.Designer.vb">
+      <DependentUpon>employeesUC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Employees\employeesUC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\Employees\empPDF.Designer.vb">
+      <DependentUpon>empPDF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Employees\empPDF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Employees\locationEmp.Designer.vb">
+      <DependentUpon>locationEmp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Employees\locationEmp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\External\AddExternal_IN.Designer.vb">
+      <DependentUpon>AddExternal_IN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\External\AddExternal_IN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\External\AddExternal_Out.Designer.vb">
+      <DependentUpon>AddExternal_Out.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\External\AddExternal_Out.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\External\EditExtermel_IN.Designer.vb">
+      <DependentUpon>EditExtermel_IN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\External\EditExtermel_IN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\External\EditExternal_OUT.Designer.vb">
+      <DependentUpon>EditExternal_OUT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\External\EditExternal_OUT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\External\ExternalControl.Designer.vb">
+      <DependentUpon>ExternalControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\External\ExternalControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\External\InOut_UC.Designer.vb">
+      <DependentUpon>InOut_UC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\External\InOut_UC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\External\OutOut_UC.Designer.vb">
+      <DependentUpon>OutOut_UC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\External\OutOut_UC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\FRMInfo.Designer.vb">
+      <DependentUpon>FRMInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\FRMInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\FRMLogin.Designer.vb">
+      <DependentUpon>FRMLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\FRMLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\FRMupdate.Designer.vb">
+      <DependentUpon>FRMupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\FRMupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\AddInternal_IN.Designer.vb">
+      <DependentUpon>AddInternal_IN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\AddInternal_IN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\AddInternal_Out.Designer.vb">
+      <DependentUpon>AddInternal_Out.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\AddInternal_Out.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\EditInternal_Invb.Designer.vb">
+      <DependentUpon>EditInternal_Invb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\EditInternal_Invb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\EditInternal_Out.Designer.vb">
+      <DependentUpon>EditInternal_Out.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\EditInternal_Out.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\InExUC.Designer.vb">
+      <DependentUpon>InExUC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\InExUC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\InOutUC.Designer.vb">
+      <DependentUpon>InOutUC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\InOutUC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\InsertInternalInLetter.Designer.vb">
+      <DependentUpon>InsertInternalInLetter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\InsertInternalInLetter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\InInUC.Designer.vb">
+      <DependentUpon>InInUC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\InInUC.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\Internal\InternalControl.Designer.vb">
+      <DependentUpon>InternalControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\Internal\InternalControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UsersController\LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersController\showPDF.Designer.vb">
+      <DependentUpon>showPDF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersController\showPDF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VCR_ININ.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VCR_ININ.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="V_CRINEX.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>V_CRINEX.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="V_INEX.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>V_INEX.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="V_inin.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>V_inin.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="deleteRecord.resx">
+      <DependentUpon>deleteRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlert.resx">
+      <DependentUpon>frmAlert.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginWarning.resx">
+      <DependentUpon>LoginWarning.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransparentBGvb.resx">
+      <DependentUpon>TransparentBGvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\dashBoardUC.resx">
+      <DependentUpon>dashBoardUC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Departments\addNewCom.resx">
+      <DependentUpon>addNewCom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Departments\addNewDep.resx">
+      <DependentUpon>addNewDep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Departments\Center.resx">
+      <DependentUpon>Center.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Departments\COM.resx">
+      <DependentUpon>COM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Departments\DEP.resx">
+      <DependentUpon>DEP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Departments\editCom.resx">
+      <DependentUpon>editCom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Departments\editDep.resx">
+      <DependentUpon>editDep.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Employees\addNewEmp.resx">
+      <DependentUpon>addNewEmp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Employees\docEmpType.resx">
+      <DependentUpon>docEmpType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Employees\editEmpInfo.resx">
+      <DependentUpon>editEmpInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Employees\employeesUC.resx">
+      <DependentUpon>employeesUC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Employees\empPDF.resx">
+      <DependentUpon>empPDF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Employees\locationEmp.resx">
+      <DependentUpon>locationEmp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\External\AddExternal_IN.resx">
+      <DependentUpon>AddExternal_IN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\External\AddExternal_Out.resx">
+      <DependentUpon>AddExternal_Out.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\External\EditExtermel_IN.resx">
+      <DependentUpon>EditExtermel_IN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\External\EditExternal_OUT.resx">
+      <DependentUpon>EditExternal_OUT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\External\ExternalControl.resx">
+      <DependentUpon>ExternalControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\External\InOut_UC.resx">
+      <DependentUpon>InOut_UC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\External\OutOut_UC.resx">
+      <DependentUpon>OutOut_UC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\FRMInfo.resx">
+      <DependentUpon>FRMInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\FRMLogin.resx">
+      <DependentUpon>FRMLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\FRMupdate.resx">
+      <DependentUpon>FRMupdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\AddInternal_IN.resx">
+      <DependentUpon>AddInternal_IN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\AddInternal_Out.resx">
+      <DependentUpon>AddInternal_Out.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\EditInternal_Invb.resx">
+      <DependentUpon>EditInternal_Invb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\EditInternal_Out.resx">
+      <DependentUpon>EditInternal_Out.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\InExUC.resx">
+      <DependentUpon>InExUC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\InOutUC.resx">
+      <DependentUpon>InOutUC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\InsertInternalInLetter.resx">
+      <DependentUpon>InsertInternalInLetter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\InInUC.resx">
+      <DependentUpon>InInUC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\Internal\InternalControl.resx">
+      <DependentUpon>InternalControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersController\showPDF.resx">
+      <DependentUpon>showPDF.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="companiesDataSet.xsc">
+      <DependentUpon>companiesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="companiesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>companiesDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="companiesDataSet.xss">
+      <DependentUpon>companiesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DepDataSet.xsc">
+      <DependentUpon>DepDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DepDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DepDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DepDataSet.xss">
+      <DependentUpon>DepDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EDMSDataSetemplloyees.xsc">
+      <DependentUpon>EDMSDataSetemplloyees.xsd</DependentUpon>
+    </None>
+    <None Include="EDMSDataSetemplloyees.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EDMSDataSetemplloyees.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EDMSDataSetemplloyees.xss">
+      <DependentUpon>EDMSDataSetemplloyees.xsd</DependentUpon>
+    </None>
+    <None Include="eDMSystem_TemporaryKey.pfx" />
+    <None Include="Employees.xsc">
+      <DependentUpon>Employees.xsd</DependentUpon>
+    </None>
+    <None Include="Employees.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employees.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employees.xss">
+      <DependentUpon>Employees.xsd</DependentUpon>
+    </None>
+    <None Include="INOUT.xsc">
+      <DependentUpon>INOUT.xsd</DependentUpon>
+    </None>
+    <None Include="INOUT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>INOUT.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="INOUT.xss">
+      <DependentUpon>INOUT.xsd</DependentUpon>
+    </None>
+    <None Include="IN_IN.xsc">
+      <DependentUpon>IN_IN.xsd</DependentUpon>
+    </None>
+    <None Include="IN_IN.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IN_IN.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="IN_IN.xss">
+      <DependentUpon>IN_IN.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="OutIn.xsc">
+      <DependentUpon>OutIn.xsd</DependentUpon>
+    </None>
+    <None Include="OutIn.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OutIn.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OutIn.xss">
+      <DependentUpon>OutIn.xsd</DependentUpon>
+    </None>
+    <None Include="OUTOUT.xsc">
+      <DependentUpon>OUTOUT.xsd</DependentUpon>
+    </None>
+    <None Include="OUTOUT.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OUTOUT.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OUTOUT.xss">
+      <DependentUpon>OUTOUT.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="VCR_ININ.xsc">
+      <DependentUpon>VCR_ININ.xsd</DependentUpon>
+    </None>
+    <None Include="VCR_ININ.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VCR_ININ.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VCR_ININ.xss">
+      <DependentUpon>VCR_ININ.xsd</DependentUpon>
+    </None>
+    <None Include="V_CRINEX.xsc">
+      <DependentUpon>V_CRINEX.xsd</DependentUpon>
+    </None>
+    <None Include="V_CRINEX.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>V_CRINEX.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="V_CRINEX.xss">
+      <DependentUpon>V_CRINEX.xsd</DependentUpon>
+    </None>
+    <None Include="V_INEX.xsc">
+      <DependentUpon>V_INEX.xsd</DependentUpon>
+    </None>
+    <None Include="V_INEX.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>V_INEX.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="V_INEX.xss">
+      <DependentUpon>V_INEX.xsd</DependentUpon>
+    </None>
+    <None Include="V_inin.xsc">
+      <DependentUpon>V_inin.xsd</DependentUpon>
+    </None>
+    <None Include="V_inin.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>V_inin.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="V_inin.xss">
+      <DependentUpon>V_inin.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\programmer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mellitah-oil-Gas-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visibility.png" />
+    <None Include="Resources\visibility %281%29.png" />
+    <None Include="Resources\information.png" />
+    <None Include="Resources\password.png" />
+    <None Include="Resources\user %282%291.png" />
+    <None Include="Resources\user %283%29.png" />
+    <None Include="Resources\letter1.png" />
+    <None Include="Resources\folder %281%29.png" />
+    <None Include="Resources\essay.png" />
+    <None Include="Resources\left-arrow.png" />
+    <None Include="Resources\more %281%29.png" />
+    <None Include="Resources\more1.png" />
+    <None Include="Resources\letter %281%29.png" />
+    <None Include="Resources\folder.png" />
+    <None Include="Resources\letter.png" />
+    <None Include="Resources\project-management.png" />
+    <None Include="Resources\writing.png" />
+    <None Include="Resources\power-off1.png" />
+    <None Include="Resources\power-button.png" />
+    <None Include="Resources\shutdown %281%29.png" />
+    <None Include="Resources\shutdown.png" />
+    <None Include="Resources\external-link.png" />
+    <None Include="Resources\idea.png" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\more.png" />
+    <None Include="Resources\Multiply_18px.png" />
+    <None Include="Resources\Warning_28px.png" />
+    <None Include="Resources\Checkmark_28px1.png" />
+    <None Include="Resources\employee.png" />
+    <None Include="Resources\department.png" />
+    <None Include="Resources\document.png" />
+    <None Include="Resources\document %281%29.png" />
+    <None Include="Resources\employee %281%29.png" />
+    <None Include="Resources\documents.png" />
+    <Content Include="folders.ico" />
+    <None Include="Resources\edit1.png" />
+    <None Include="Resources\delete1.png" />
+    <None Include="Resources\299045_sign_error_icon.png" />
+    <None Include="Resources\299056_shield_error_icon.png" />
+    <None Include="Resources\9004852_trash_delete_bin_remove_icon.png" />
+    <None Include="Resources\95939_document_delete_remove_icon.png" />
+    <None Include="Resources\3440892_delete_document_file_filetype_paper_icon.png" />
+    <None Include="Resources\documents1.png" />
+    <None Include="Resources\44145E63-B1A0-4A25-81D2-118C38AB3F0D-removebg-preview %281%29.png" />
+    <None Include="Resources\documents2.png" />
+    <None Include="Resources\documents %281%29.png" />
+    <None Include="Resources\document %281%291.png" />
+    <None Include="Resources\enterprise.png" />
+    <None Include="Resources\download-removebg-preview %283%29.png" />
+    <None Include="Resources\enter.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\add-file.png" />
+    <None Include="Resources\cancel.png" />
+    <Content Include="Resources\Error_28px.png" />
+    <None Include="Resources\Error_28px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power-off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AdobePDFMakerForOffice">
+      <Guid>{EA8D486A-09E6-411F-B452-78F075ACC8CC}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AdobePDFMakerX">
+      <Guid>{CBD71DF4-5AED-11D2-BC74-0060979C3633}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,1046 @@
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\bin\Debug\Guna.UI.dll
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\bin\Debug\Guna.UI2.dll
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\bin\Debug\MetroFramework.dll
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA\source\repos\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\MetroFramework.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\MetroFramework.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\eDMSystem\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\eDMSystem\eDMSystem\bin\Debug\eDMSystem.exe
+C:\eDMSystem\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\eDMSystem\eDMSystem\bin\Debug\eDMSystem.xml
+C:\eDMSystem\eDMSystem\bin\Debug\MetroFramework.dll
+C:\eDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\eDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\eDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\eDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\eDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\eDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\eDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\eDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\eDMSystem\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\eDMSystem\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\eDMSystem\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\eDMSystem\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.exe
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.xml
+C:\eDMSystem\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA\Desktop\eDMSystem\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\MetroFramework.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\MetroFramework.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\MetroFramework.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\eDMSystem_HSEQ_SourceCode_03-7-2022\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPDeDMSystem\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQeDMSystem\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\HSEQFull\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPFull\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\eDMS\LASTVER2.1.1\DP\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\MsgShow.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\MsgShow.xml
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.deleteRecord.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.LoginWarning.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.TransparentBGvb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\New folder\DPEmployees\eDMSystem\obj\Debug\eDMSystem.pdb
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe.config
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe.manifest
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\eDMSystem.application
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\eDMSystem.pdb
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\eDMSystem.xml
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\MsgShow.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\System.Security.Permissions.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\MsgShow.xml
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\System.Security.Permissions.xml
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.config
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.deleteRecord.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.LoginWarning.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.TransparentBGvb.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Center.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.COM.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.manifest
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.application
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.xml
+\\tip-app-db\mds\Documentation Management System\DPEmployees\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\MsgShow.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\MsgShow.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.deleteRecord.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.LoginWarning.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.TransparentBGvb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\MsgShow.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\MsgShow.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.deleteRecord.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.LoginWarning.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.TransparentBGvb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.test.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\MsgShow.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\MsgShow.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.deleteRecord.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.LoginWarning.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.test.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.TransparentBGvb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InExUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\MsgShow.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\MsgShow.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.deleteRecord.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.LoginWarning.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.test.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.TransparentBGvb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.FRMupdate.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InExUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.FRMInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.FRMLogin.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.FRMInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.FRMLogin.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DEV.environment\DP.eDMS\eDMSystem\obj\Debug\eDMSystem.FRMupdate.resources

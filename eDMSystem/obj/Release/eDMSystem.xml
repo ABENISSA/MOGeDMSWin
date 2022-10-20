@@ -1,0 +1,1151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eDMSystem
+</name>
+</assembly>
+<members>
+<member name="T:eDMSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources._299045_sign_error_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources._299056_shield_error_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources._3440892_delete_document_file_filetype_paper_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources._44145E63_B1A0_4A25_81D2_118C38AB3F0D_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources._9004852_trash_delete_bin_remove_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources._95939_document_delete_remove_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.check">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.Checkmark_28px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.delete1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.department">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.document">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.document__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.document__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.documents">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.documents__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.documents1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.documents2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.download_removebg_preview__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.edit1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.employee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.employee__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.enter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.enterprise">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.Error_28px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.error_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.essay">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.external_link">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.eye">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.folder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.folder__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.idea">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.info">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.information">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.left_arrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.letter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.letter__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.letter1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.Mellitah_oil_Gas_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.more">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.more__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.more1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.Multiply_18px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.padlock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.plus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.plus_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.power_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.power_off">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.power_off1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.profile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.programmer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.project_management">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.show">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.shutdown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.shutdown__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.user__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.user__2_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.user__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.visibility">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.visibility__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.warning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.Warning_28px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:eDMSystem.My.Resources.Resources.writing">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:eDMSystem.companiesDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.companiesDataSet.HSEQ_COMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.companiesDataSet.HSEQ_COMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.companiesDataSet.HSEQ_COMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.companiesDataSetTableAdapters.HSEQ_COMTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.companiesDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.companiesDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.companiesDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.companiesDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.companiesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.companiesDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.companiesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.companiesDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.companiesDataSetTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.companiesDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.companiesDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.companiesDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.DepDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.DepDataSet.FM_DEPDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.DepDataSet.FM_DEPRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.DepDataSet.FM_DEPRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.DepDataSetTableAdapters.FM_DEPTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.DepDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.DepDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.DepDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.DepDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.DepDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.DepDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.DepDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.DepDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.DepDataSetTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.DepDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.DepDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.DepDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.EDMSDataSetemplloyees">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.EDMSDataSetemplloyees.ICT_EMPLOYEESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.EDMSDataSetemplloyees.ICT_EMPLOYEESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.EDMSDataSetemplloyees.ICT_EMPLOYEESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.EDMSDataSetemplloyeesTableAdapters.ICT_EMPLOYEESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.EDMSDataSetemplloyeesTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.EDMSDataSetemplloyeesTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.EDMSDataSetemplloyees,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.EDMSDataSetemplloyeesTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.EDMSDataSetemplloyees,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.EDMSDataSetemplloyeesTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.EDMSDataSetemplloyees,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.EDMSDataSetemplloyeesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.EDMSDataSetemplloyeesTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.EDMSDataSetemplloyees)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.EDMSDataSetemplloyeesTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.EDMSDataSetemplloyeesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.Employees">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.Employees.HSEQ_EMPLOYEESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.Employees.HSEQ_EMPLOYEESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.Employees.HSEQ_EMPLOYEESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.EmployeesTableAdapters.HSEQ_EMPLOYEESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.EmployeesTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.EmployeesTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.Employees,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.EmployeesTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.Employees,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.EmployeesTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.Employees,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.EmployeesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.EmployeesTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.Employees)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.EmployeesTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.EmployeesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.INOUT">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.INOUT.HSEQ_INTERNAL_OUTGODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.INOUT.HSEQ_INTERNAL_OUTGORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.INOUT.HSEQ_INTERNAL_OUTGORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.INOUTTableAdapters.HSEQ_INTERNAL_OUTGOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.INOUTTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.INOUTTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.INOUT,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.INOUTTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.INOUT,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.INOUTTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.INOUT,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.INOUTTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.INOUTTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.INOUT)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.INOUTTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.INOUTTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.IN_IN">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.IN_IN.HSEQ_INTERNAL_INCOMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.IN_IN.HSEQ_INTERNAL_INCOMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.IN_IN.HSEQ_INTERNAL_INCOMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.IN_INTableAdapters.HSEQ_INTERNAL_INCOMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.IN_INTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.IN_INTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.IN_IN,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.IN_INTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.IN_IN,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.IN_INTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.IN_IN,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.IN_INTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.IN_INTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.IN_IN)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.IN_INTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.IN_INTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.OutIn">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.OutIn.HSEQ_EXTERNAL_INCOMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.OutIn.HSEQ_EXTERNAL_INCOMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.OutIn.HSEQ_EXTERNAL_INCOMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.OutInTableAdapters.HSEQ_EXTERNAL_INCOMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.OutInTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.OutInTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.OutIn,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.OutInTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.OutIn,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.OutInTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.OutIn,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.OutInTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.OutInTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.OutIn)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.OutInTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.OutInTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.OUTOUT">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.OUTOUT.HSEQ_EXTERNAL_OUTGODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.OUTOUT.HSEQ_EXTERNAL_OUTGORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.OUTOUT.HSEQ_EXTERNAL_OUTGORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.OUTOUTTableAdapters.HSEQ_EXTERNAL_OUTGOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.OUTOUTTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.OUTOUTTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.OUTOUT,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.OUTOUTTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.OUTOUT,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.OUTOUTTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.OUTOUT,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.OUTOUTTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.OUTOUTTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.OUTOUT)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.OUTOUTTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.OUTOUTTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.VCR_ININ">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.VCR_ININ.V_CRININDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.VCR_ININ.V_CRININRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.VCR_ININ.V_CRININRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.VCR_ININTableAdapters.V_CRININTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.VCR_ININTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.VCR_ININTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.VCR_ININ,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.VCR_ININTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.VCR_ININ,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.VCR_ININTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.VCR_ININ,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.VCR_ININTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.VCR_ININTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.VCR_ININ)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.VCR_ININTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.VCR_ININTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.V_CRINEX">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.V_CRINEX.V_CRINEXDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.V_CRINEX.V_CRINEXRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.V_CRINEX.V_CRINEXRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.V_CRINEXTableAdapters.V_CRINEXTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.V_CRINEXTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.V_CRINEXTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.V_CRINEX,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_CRINEXTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.V_CRINEX,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_CRINEXTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.V_CRINEX,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_CRINEXTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.V_CRINEXTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.V_CRINEX)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.V_CRINEXTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.V_CRINEXTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.V_INEX">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.V_INEX.V_INEXDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.V_INEX.V_INEXRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.V_INEX.V_INEXRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.V_INEXTableAdapters.V_INEXTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.V_INEXTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.V_INEXTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.V_INEX,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_INEXTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.V_INEX,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_INEXTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.V_INEX,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_INEXTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.V_INEXTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.V_INEX)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.V_INEXTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.V_INEXTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:eDMSystem.V_inin">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eDMSystem.V_inin.V_InInDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eDMSystem.V_inin.V_InInRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eDMSystem.V_inin.V_InInRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eDMSystem.V_ininTableAdapters.V_InInTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:eDMSystem.V_ininTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:eDMSystem.V_ininTableAdapters.TableAdapterManager.UpdateUpdatedRows(eDMSystem.V_inin,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_ininTableAdapters.TableAdapterManager.UpdateInsertedRows(eDMSystem.V_inin,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_ininTableAdapters.TableAdapterManager.UpdateDeletedRows(eDMSystem.V_inin,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:eDMSystem.V_ininTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:eDMSystem.V_ininTableAdapters.TableAdapterManager.UpdateAll(eDMSystem.V_inin)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:eDMSystem.V_ininTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:eDMSystem.V_ininTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

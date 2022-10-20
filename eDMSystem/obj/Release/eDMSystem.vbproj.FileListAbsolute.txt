@@ -1,0 +1,149 @@
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\Guna.UI.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\Guna.UI2.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\MetroFramework.Design.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\MetroFramework.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\MetroFramework.Fonts.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\MsgShow.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\MsgShow.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\DPEmployees\eDMSystem\obj\Release\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\eDMSystem.exe.config
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\Guna.UI.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\Guna.UI2.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\MetroFramework.Design.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\MetroFramework.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\MetroFramework.Fonts.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\MsgShow.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\System.Security.AccessControl.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\System.Security.Permissions.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\MsgShow.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\System.Security.AccessControl.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\System.Security.Permissions.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.vbproj.AssemblyReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\Interop.AdobePDFMakerForOffice.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\Interop.AdobePDFMakerX.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.vbproj.ResolveComReference.cache
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.deleteRecord.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.Form1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.frmAlert.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.LoginWarning.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.Resources.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.test.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.TransparentBGvb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.dashBoardUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.addNewCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.addNewDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.Center.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.COM.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.DEP.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.editCom.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.editDep.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.addNewEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.docEmpType.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.editEmpInfo.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.employeesUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.empPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.locationEmp.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.AddExternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.AddExternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.EditExtermel_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.EditExternal_OUT.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.ExternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.InOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.OutOut_UC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.FRMupdate.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.AddInternal_IN.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.AddInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.EditInternal_Invb.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.EditInternal_Out.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.InExUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.InOutUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.InsertInternalInLetter.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.InInUC.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.InternalControl.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.LoginForm1.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.showPDF.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.vbproj.GenerateResource.cache
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.exe.licenses
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.vbproj.CoreCompileInputs.cache
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.exe.manifest
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.application
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.vbproj.CopyComplete
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.exe
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.xml
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.pdb
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.FRMLogin.resources
+C:\Users\ABENISSA.LT-3692\Desktop\OneDrive - Mellitahog\ROOT\MOG.ly\eDMS\DEV.environment\DP.eDMS\eDMSystem\obj\Release\eDMSystem.FRMInfo.resources
